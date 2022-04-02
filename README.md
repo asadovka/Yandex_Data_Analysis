@@ -1,5 +1,4 @@
-# Yandex_Data_Analysis
-A set of my best projects from the Yandex Data Analysis 2021 course
+# Yandex Data Analysis Projects
 
 ### 1. <a href="https://github.com/asadovka/Yandex_Data_Analysis/blob/main/1_Telecom_tariffs_analysis.ipynb">Determination of a perspective tariff for a telecom company</a>
 
