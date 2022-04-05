@@ -11,7 +11,7 @@ You are an analyst at Megaline, a federal mobile operator. Clients are offered t
 `pandas, pyplot, numpy, scipy`
 <hr>
 
-### 2. <a href="https://github.com/asadovka/Yandex_Data_Analysis/blob/main/2_%D0%A1omputer_games_popularity_analysis/project_2.md">Determination of a perspective tariff for a telecom company</a>
+### 2. <a href="https://github.com/asadovka/Yandex_Data_Analysis/blob/main/2_%D0%A1omputer_games_popularity_analysis/project_2.md">Computer games popularity analysis</a>
 
 **Problem description:**
 
@@ -25,6 +25,3 @@ The goal of the project: to identify patterns that determine the success of the 
 <hr>
 
 
-
-
-https://github.com/asadovka/Yandex_Data_Analysis/tree/main/2_Computer_games_popularity_analysis
