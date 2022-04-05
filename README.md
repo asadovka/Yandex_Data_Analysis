@@ -25,3 +25,19 @@ The goal of the project: to identify patterns that determine the success of the 
 <hr>
 
 
+### 3. <a href="https://github.com/asadovka/Yandex_Data_Analysis/blob/main/3_Marketing_hypotheses_testing/project_3.md">Marketing hypotheses testing</a>
+
+**Problem description:**
+
+
+You are an analyst for a large online store. Together with the marketing department, you have prepared a list of hypotheses for increasing revenue.
+
+To do:
+
+ - prioritize hypotheses
+ - run an A/B test
+ - analyze the results.
+
+**Used libraries:**
+`pandas, pyplot, numpy, scipy, seaborn`
+<hr>
